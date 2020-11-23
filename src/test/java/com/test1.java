@@ -19,7 +19,7 @@ public class test1 {
 		WebDriver driver=new ChromeDriver();
 		 
 		// Open facebook
-		driver.get("http://www.facebook.com");
+		driver.get("http://www.google.com");
 		 
 		// Maximize browser
 		 
